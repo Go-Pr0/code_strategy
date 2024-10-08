@@ -27,7 +27,7 @@ Navigate to that file:
 
 >Terminal <br><br>
 > cd path/to/code_strategy<br><br>
-> python3 main.py LINUX<br><br>
+> python3 main.py #LINUX<br><br>
 > python main.py #WINDOWS <br><br>
 
 >VScode: <br><br>
