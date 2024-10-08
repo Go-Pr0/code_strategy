@@ -10,7 +10,7 @@ pip install PyQt5 qdarkstyle
 Linux:
 pip3 install PyQt5 qdarkstyle
 
-If you're on MacOS, simply go to the Releases page: https://github.com/Go-Pr0/code_strategy/releases and download the latest version.
+If you're on MacOS, simply go to the [Releases](https://github.com/Go-Pr0/code_strategy/releases) page and download the latest version.
 
 If you encounter any issues with linux, I reccomend using a venv (virtual environment) dedicated to this specific script. <br>
 The same can be done on macOS or Windows althought it usually isn't as big of an issue. (some code editors automatically create a venv already) <br>
