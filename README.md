@@ -13,7 +13,7 @@ Linux:
 pip3 install PyQt5 qdarkstyle
 
 
-If you encounter any issues with linux, I reccomend using a venv (virtual environment) dedicated to that specific script <br>
+If you encounter any issues with linux, I reccomend using a venv (virtual environment) dedicated to this specific script. <br>
 The same can be done on macOS or Windows althought it usually isn't as big of an issue. (some code editors automatically create a venv already) <br>
 
 ! Make sure u have pip installed and python updated to the latest version
